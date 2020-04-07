@@ -1,0 +1,51 @@
+html {
+  font-family: Merriweather, serif;
+}
+
+.weekday {
+  border: 1px solid #ccc;
+  height: auto;
+}
+
+.grey {
+  background-color: #f2f2f2;
+  border: 1px solid #666;
+  border-radius: 8px;
+  color: #333;
+  width: 100%;
+}
+
+.red {
+  background-color: #f2bcbc;
+  border: 1px solid #b92828;
+  border-radius: 8px;
+  color: #991919;
+  width: 100%;
+}
+
+.green {
+  background-color: #d1e0bf;
+  border: 1px solid #6b7e54;
+  border-radius: 8px;
+  color: #51603f;
+  width: 100%;
+}
+
+.purple {
+  background-color: #d2d6f0;
+  border: 1px solid #1d38da;
+  border-radius: 8px;
+  color: #38448e;
+  width: 100%;
+}
+
+table {
+  min-width: 50em;
+  border: 1px solid #ccc;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  width: 8em;
+  height: 8em;
+}
